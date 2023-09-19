@@ -13,5 +13,15 @@ namespace MVCProject.Controllers
         {
             return View();
         }
+
+        public ActionResult Portfolio()
+        {
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            return View();
+        }
     }
 }
